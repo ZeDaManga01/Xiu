@@ -1,0 +1,3512 @@
+[
+    {
+        "Origem": "aracaju",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "salvador",
+        "Vagas": 14
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "aracaju",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bel�m",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "belo horizonte",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "boa vista",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "bras�lia",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "campo grande",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "cuiab�",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "curitiba",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "florian�polis",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "fortaleza",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "goi�nia",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "jo�o pessoa",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macap�",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "macei�",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "manaus",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "natal",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "palmas",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto alegre",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "porto velho",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "recife",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio branco",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "rio de janeiro",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "s�o paulo",
+        "Vagas": 14
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "salvador",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o lu�s",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "teresina",
+        "Vagas": 15
+    },
+    {
+        "Origem": "s�o paulo",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "teresina",
+        "Destino": "vit�ria",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "aracaju",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "bel�m",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "belo horizonte",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "boa vista",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "bras�lia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "campo grande",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "cuiab�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "curitiba",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "florian�polis",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "fortaleza",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "goi�nia",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "jo�o pessoa",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "macap�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "macei�",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "manaus",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "natal",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "palmas",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "porto alegre",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "porto velho",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "recife",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "rio branco",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "rio de janeiro",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "salvador",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "s�o lu�s",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "s�o paulo",
+        "Vagas": 15
+    },
+    {
+        "Origem": "vit�ria",
+        "Destino": "teresina",
+        "Vagas": 15
+    }
+]
